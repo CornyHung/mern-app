@@ -14,3 +14,9 @@ B1:
 
 B2:
 + Signup logic(validate, regex email, jwt token)
+
+b3:
+Logout (clear cookie client)
+Login (email, password)
+research api film TMDB
+ 
